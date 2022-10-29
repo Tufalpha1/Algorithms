@@ -1,5 +1,5 @@
 
-let arr= [10,20,30,40,50];
+const arr= [10,20,30,40,50];
 let target= 20;
 
 const linearSearch = (arr, target)=> {
